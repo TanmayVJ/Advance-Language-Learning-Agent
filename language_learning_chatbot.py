@@ -38,6 +38,7 @@ LANGUAGES = {
     "🇸🇦 Arabic":     "Arabic",
     "🇷🇺 Russian":    "Russian",
     "🇹🇷 Turkish":    "Turkish",
+    "EN English":    "English"
 }
 
 NATIVE_LANGUAGES = {
@@ -466,6 +467,7 @@ def main():
 
             > **Free to use**: This app runs on [Groq](https://console.groq.com) — get your free API key in under a minute.
             > Model used: `llama-3.3-70b-versatile` (fast, multilingual, excellent for tutoring)
+            > For Interview :- Use API -> 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
             """
         )
         return
