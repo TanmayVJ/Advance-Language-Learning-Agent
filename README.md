@@ -1,4 +1,4 @@
-# 🌍 Advance Language Learning Agent
+# 🌍 Advance Language Learning Chatbot
 
 > A conversational AI tutor that helps you practice real languages through natural dialogue — with mistake tracking, vocabulary lessons, and grammar drills built in.
 
